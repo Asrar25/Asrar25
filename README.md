@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Asrar
 
-## 🚀 Project Engineer | Full Stack Developer | JavaScript Enthusiast
+### 🚀 Project Engineer | Full Stack Developer | JavaScript • React • Node.js • Laravel
 
 I'm a **Project Engineer** with **2+ years of professional experience** building scalable web applications and enterprise software.
 
@@ -113,3 +113,11 @@ Over the past **2 years**, I've worked on production projects involving:
 I'm always interested in collaborating on exciting software engineering and AI projects.
 
 ⭐ Feel free to explore my repositories and connect with me!
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/asrar786"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:asaasrar786@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://wa.me/918122481515"><img src="https://skillicons.dev/icons?i=discord" /></a>
+</p>
